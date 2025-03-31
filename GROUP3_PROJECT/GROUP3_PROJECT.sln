@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GROUP3_PROJECT", "GROUP3_PROJECT.vbproj", "{F635940C-8CF6-4992-877B-036C11DED78E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GROUP3-PROJECT", "..\GROUP3-PROJECT\GROUP3-PROJECT.vdproj", "{43C2A95A-FACA-4A00-AB3F-BAADF9209BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F635940C-8CF6-4992-877B-036C11DED78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F635940C-8CF6-4992-877B-036C11DED78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F635940C-8CF6-4992-877B-036C11DED78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F635940C-8CF6-4992-877B-036C11DED78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C2A95A-FACA-4A00-AB3F-BAADF9209BF5}.Debug|Any CPU.ActiveCfg = Debug
+		{43C2A95A-FACA-4A00-AB3F-BAADF9209BF5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44668C76-29A9-467B-BE51-E8B101AF0C8E}
+	EndGlobalSection
+EndGlobal
